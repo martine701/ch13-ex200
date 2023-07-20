@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ch13-ex200';
+  names = ['Peter Falk', 'Mary-Ann Blige', 'Eminem'];
 }
